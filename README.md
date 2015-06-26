@@ -1,4 +1,4 @@
-# logger
+# Logger
 Good lookin’ logs
 
 In action: http://codepen.io/jakealbaugh/pen/xGXXov
