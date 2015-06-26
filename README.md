@@ -3,7 +3,7 @@ Good lookin’ logs
 
 In action: http://codepen.io/jakealbaugh/pen/xGXXov
 
-##usage
+##Usage
 ```
 var log = new Logger();
 
